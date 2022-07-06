@@ -1,0 +1,120 @@
+2022-07-04 15:19:26.469724 [info]: deal with the client(218.194.45.166)
+2022-07-04 15:19:26.479471 [info]: adjust timer once
+2022-07-04 15:19:26.479484 [info]: GET / HTTP/1.1
+2022-07-04 15:19:26.479502 [info]: Host: 162.14.64.62:7629
+2022-07-04 15:19:26.479511 [info]: Connection: keep-alive
+2022-07-04 15:19:26.479519 [info]: Upgrade-Insecure-Requests: 1
+2022-07-04 15:19:26.479524 [info]: unknow header: Upgrade-Insecure-Requests: 1
+2022-07-04 15:19:26.479530 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44
+2022-07-04 15:19:26.479536 [info]: unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44
+2022-07-04 15:19:26.479542 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-07-04 15:19:26.479547 [info]: unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-07-04 15:19:26.479552 [info]: Accept-Encoding: gzip, deflate
+2022-07-04 15:19:26.479557 [info]: unknow header: Accept-Encoding: gzip, deflate
+2022-07-04 15:19:26.479562 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-07-04 15:19:26.479567 [info]: unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-07-04 15:19:26.479572 [info]: 
+2022-07-04 15:19:26.486745 [info]: request:HTTP/1.1 200 OK
+
+2022-07-04 15:19:26.486758 [info]: request:HTTP/1.1 200 OK
+Content-Length:973
+
+2022-07-04 15:19:26.486763 [info]: request:HTTP/1.1 200 OK
+Content-Length:973
+Connection:keep-alive
+
+2022-07-04 15:19:26.486769 [info]: request:HTTP/1.1 200 OK
+Content-Length:973
+Connection:keep-alive
+
+
+2022-07-04 15:19:26.487322 [info]: send data to the client(218.194.45.166)
+2022-07-04 15:19:26.487334 [info]: adjust timer once
+2022-07-04 15:19:26.615024 [info]: deal with the client(218.194.45.166)
+2022-07-04 15:19:26.615055 [info]: adjust timer once
+2022-07-04 15:19:26.615065 [info]: GET /css/base.css HTTP/1.1
+2022-07-04 15:19:26.615081 [info]: Host: 162.14.64.62:7629
+2022-07-04 15:19:26.615088 [info]: Connection: keep-alive
+2022-07-04 15:19:26.615094 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44
+2022-07-04 15:19:26.615100 [info]: unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44
+2022-07-04 15:19:26.615105 [info]: Accept: text/css,*/*;q=0.1
+2022-07-04 15:19:26.615110 [info]: unknow header: Accept: text/css,*/*;q=0.1
+2022-07-04 15:19:26.615115 [info]: Referer: http://162.14.64.62:7629/
+2022-07-04 15:19:26.615120 [info]: unknow header: Referer: http://162.14.64.62:7629/
+2022-07-04 15:19:26.615125 [info]: Accept-Encoding: gzip, deflate
+2022-07-04 15:19:26.615130 [info]: unknow header: Accept-Encoding: gzip, deflate
+2022-07-04 15:19:26.615135 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-07-04 15:19:26.615140 [info]: unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-07-04 15:19:26.615145 [info]: 
+2022-07-04 15:19:26.615573 [info]: deal with the client(218.194.45.166)
+2022-07-04 15:19:26.615591 [info]: adjust timer once
+2022-07-04 15:19:26.615602 [info]: GET /css/index.css HTTP/1.1
+2022-07-04 15:19:26.615617 [info]: Host: 162.14.64.62:7629
+2022-07-04 15:19:26.615631 [info]: Connection: keep-alive
+2022-07-04 15:19:26.615637 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44
+2022-07-04 15:19:26.615642 [info]: unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44
+2022-07-04 15:19:26.615648 [info]: Accept: text/css,*/*;q=0.1
+2022-07-04 15:19:26.615658 [info]: unknow header: Accept: text/css,*/*;q=0.1
+2022-07-04 15:19:26.615664 [info]: Referer: http://162.14.64.62:7629/
+2022-07-04 15:19:26.615669 [info]: unknow header: Referer: http://162.14.64.62:7629/
+2022-07-04 15:19:26.615688 [info]: Accept-Encoding: gzip, deflate
+2022-07-04 15:19:26.615706 [info]: unknow header: Accept-Encoding: gzip, deflate
+2022-07-04 15:19:26.615714 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-07-04 15:19:26.615719 [info]: request:HTTP/1.1 200 OK
+
+2022-07-04 15:19:26.615722 [info]: unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-07-04 15:19:26.615737 [info]: request:HTTP/1.1 200 OK
+Content-Length:130
+
+2022-07-04 15:19:26.615746 [info]: 
+2022-07-04 15:19:26.615766 [info]: request:HTTP/1.1 200 OK
+Content-Length:130
+Connection:keep-alive
+
+2022-07-04 15:19:26.615775 [info]: request:HTTP/1.1 200 OK
+Content-Length:130
+Connection:keep-alive
+
+
+2022-07-04 15:19:26.615787 [info]: request:HTTP/1.1 200 OK
+
+2022-07-04 15:19:26.615797 [info]: request:HTTP/1.1 200 OK
+Content-Length:309
+
+2022-07-04 15:19:26.615804 [info]: request:HTTP/1.1 200 OK
+Content-Length:309
+Connection:keep-alive
+
+2022-07-04 15:19:26.615812 [info]: request:HTTP/1.1 200 OK
+Content-Length:309
+Connection:keep-alive
+
+
+2022-07-04 15:19:26.616420 [info]: send data to the client(218.194.45.166)
+2022-07-04 15:19:26.616433 [info]: adjust timer once
+2022-07-04 15:19:26.616804 [info]: send data to the client(218.194.45.166)
+2022-07-04 15:19:26.616816 [info]: adjust timer once
+2022-07-04 15:58:45.721478 [info]: deal with the client(89.248.163.249)
+2022-07-04 15:58:45.721524 [info]: adjust timer once
+2022-07-04 15:58:45.721538 [info]: 
+2022-07-04 15:58:45.721555 [info]: request:HTTP/1.1 404 Not Found
+
+2022-07-04 15:58:45.721562 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+
+2022-07-04 15:58:45.721568 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+2022-07-04 15:58:45.721574 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+
+2022-07-04 15:58:45.721580 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+
+2022-07-04 15:58:45.721621 [info]: close fd 11

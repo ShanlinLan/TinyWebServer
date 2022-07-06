@@ -1,0 +1,27 @@
+
+header{
+    width:100%;
+    height: 200px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+header span{
+    font-size: 64px;
+    font-weight: bold;
+}
+
+main{
+    font-size: 32px;
+    text-align: center;
+}
+
+form{
+    display: inline;
+    margin: 15px;
+}
+
+form button{
+    font-size: 32px;
+    width: 150px;
+}

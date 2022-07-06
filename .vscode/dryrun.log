@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/home/lan/data/projects/tinywebserver'
+g++ -o server  main.cpp timer/lst_timer.cpp http/http_conn.cpp log/log.cpp CGImysql/sql_connection_pool.cpp webserver.cpp config/config.cpp -g -lpthread -L/usr/lib64/mysql -lmysqlclient
+make: Leaving directory `/home/lan/data/projects/tinywebserver'
+ 

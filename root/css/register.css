@@ -1,0 +1,35 @@
+header{
+    width:100%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+header span{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+main{
+    text-align: center;
+}
+
+main span{
+    font-size: 24px;
+    color: red;
+}
+
+form input{
+    width:250px;
+    height: 25px;
+    margin-top: 30px;
+    border: 1px solid gray;
+}
+
+form button{
+    width:200px;
+    height: 30px;
+    margin-top: 30px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    font-size: 20px;
+}

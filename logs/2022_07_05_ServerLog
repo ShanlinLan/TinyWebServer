@@ -1,0 +1,40 @@
+2022-07-05 01:12:21.815523 [info]: deal with the client(1.13.140.65)
+2022-07-05 01:12:21.818795 [info]: adjust timer once
+2022-07-05 01:12:21.818805 [info]: GET / HTTP/1.1
+2022-07-05 01:12:21.818835 [info]: Host: 162.14.64.62:7629
+2022-07-05 01:12:21.818843 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44
+2022-07-05 01:12:21.818849 [info]: unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44
+2022-07-05 01:12:21.818856 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-07-05 01:12:21.818861 [info]: unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-07-05 01:12:21.818867 [info]: Accept-Encoding: gzip, deflate
+2022-07-05 01:12:21.818872 [info]: unknow header: Accept-Encoding: gzip, deflate
+2022-07-05 01:12:21.818877 [info]: Accept-Language: zh-CN,zh;q=0.9
+2022-07-05 01:12:21.818882 [info]: unknow header: Accept-Language: zh-CN,zh;q=0.9
+2022-07-05 01:12:21.818887 [info]: Cache-Control: max-age=0
+2022-07-05 01:12:21.818892 [info]: unknow header: Cache-Control: max-age=0
+2022-07-05 01:12:21.818897 [info]: Connection: keep-alive
+2022-07-05 01:12:21.818901 [info]: Upgrade-Insecure-Requests: 1
+2022-07-05 01:12:21.818906 [info]: unknow header: Upgrade-Insecure-Requests: 1
+2022-07-05 01:12:21.818911 [info]: X-Forwarded-For: 162.14.64.62
+2022-07-05 01:12:21.818916 [info]: unknow header: X-Forwarded-For: 162.14.64.62
+2022-07-05 01:12:21.818921 [info]: 
+2022-07-05 01:12:21.818940 [info]: request:HTTP/1.1 200 OK
+
+2022-07-05 01:12:21.818946 [info]: request:HTTP/1.1 200 OK
+Content-Length:973
+
+2022-07-05 01:12:21.818951 [info]: request:HTTP/1.1 200 OK
+Content-Length:973
+Connection:keep-alive
+
+2022-07-05 01:12:21.818956 [info]: request:HTTP/1.1 200 OK
+Content-Length:973
+Connection:keep-alive
+
+
+2022-07-05 01:12:21.819646 [info]: send data to the client(1.13.140.65)
+2022-07-05 01:12:21.819661 [info]: adjust timer once
+2022-07-05 01:12:21.909838 [info]: close fd 11
+2022-07-05 12:17:46.400783 [info]: deal with the client(89.248.168.221)
+2022-07-05 12:17:46.400820 [info]: adjust timer once
+2022-07-05 12:17:47.397222 [info]: close fd 11

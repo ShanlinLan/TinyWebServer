@@ -1,0 +1,214 @@
+2022-07-01 11:26:18.934341 [info]: 1th MySQl Connection Thread Create
+2022-07-01 11:26:18.935536 [info]: 2th MySQl Connection Thread Create
+2022-07-01 11:26:18.935770 [info]: 3th MySQl Connection Thread Create
+2022-07-01 11:26:18.942604 [info]: Create 1th Thread.
+2022-07-01 11:26:18.942653 [info]: Create 2th Thread.
+2022-07-01 13:32:59.858017 [info]: deal with the client(81.71.60.218)
+2022-07-01 13:32:59.862020 [info]: adjust timer once
+2022-07-01 13:32:59.862035 [info]: GET / HTTP/1.1
+2022-07-01 13:32:59.862086 [info]: Host: 162.14.64.62:7629
+2022-07-01 13:32:59.862093 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+2022-07-01 13:32:59.862100 [info]: unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+2022-07-01 13:32:59.862107 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-07-01 13:32:59.862113 [info]: unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-07-01 13:32:59.862118 [info]: Accept-Encoding: gzip
+2022-07-01 13:32:59.862124 [info]: unknow header: Accept-Encoding: gzip
+2022-07-01 13:32:59.862129 [info]: Accept-Language: zh-CN,zh;q=0.9
+2022-07-01 13:32:59.862135 [info]: unknow header: Accept-Language: zh-CN,zh;q=0.9
+2022-07-01 13:32:59.862141 [info]: Cache-Control: max-age=0
+2022-07-01 13:32:59.862147 [info]: unknow header: Cache-Control: max-age=0
+2022-07-01 13:32:59.862152 [info]: Upgrade-Insecure-Requests: 1
+2022-07-01 13:32:59.862157 [info]: unknow header: Upgrade-Insecure-Requests: 1
+2022-07-01 13:32:59.862163 [info]: X-Forwarded-For: 162.14.64.62, 11.135.229.188
+2022-07-01 13:32:59.862168 [info]: unknow header: X-Forwarded-For: 162.14.64.62, 11.135.229.188
+2022-07-01 13:32:59.862174 [info]: Client-ip: 11.135.229.188
+2022-07-01 13:32:59.862179 [info]: unknow header: Client-ip: 11.135.229.188
+2022-07-01 13:32:59.862185 [info]: Via: http/1.1 traffic_server[a7311b77-1b3a-4f69-94dd-4333cb82af1b] (ApacheTrafficServer/9.0.0)
+2022-07-01 13:32:59.862190 [info]: unknow header: Via: http/1.1 traffic_server[a7311b77-1b3a-4f69-94dd-4333cb82af1b] (ApacheTrafficServer/9.0.0)
+2022-07-01 13:32:59.862196 [info]: 
+2022-07-01 13:32:59.864767 [info]: request:HTTP/1.1 200 OK
+
+2022-07-01 13:32:59.864788 [info]: request:HTTP/1.1 200 OK
+Content-Length:973
+
+2022-07-01 13:32:59.864794 [info]: request:HTTP/1.1 200 OK
+Content-Length:973
+Connection:close
+
+2022-07-01 13:32:59.864800 [info]: request:HTTP/1.1 200 OK
+Content-Length:973
+Connection:close
+
+
+2022-07-01 13:32:59.865441 [info]: close fd 11
+2022-07-01 13:34:51.012562 [info]: deal with the client(81.71.60.211)
+2022-07-01 13:34:51.012610 [info]: adjust timer once
+2022-07-01 13:34:51.012624 [info]: GET /test.php HTTP/1.1
+2022-07-01 13:34:51.012659 [info]: Host: 162.14.64.62:7629
+2022-07-01 13:34:51.012666 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+2022-07-01 13:34:51.012672 [info]: unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+2022-07-01 13:34:51.012679 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-07-01 13:34:51.012685 [info]: unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-07-01 13:34:51.012700 [info]: Accept-Encoding: gzip
+2022-07-01 13:34:51.012705 [info]: unknow header: Accept-Encoding: gzip
+2022-07-01 13:34:51.012711 [info]: Accept-Language: zh-CN,zh;q=0.9
+2022-07-01 13:34:51.012716 [info]: unknow header: Accept-Language: zh-CN,zh;q=0.9
+2022-07-01 13:34:51.012729 [info]: Cache-Control: max-age=0
+2022-07-01 13:34:51.012735 [info]: unknow header: Cache-Control: max-age=0
+2022-07-01 13:34:51.012740 [info]: Referer: http://162.14.64.62:7629/
+2022-07-01 13:34:51.012745 [info]: unknow header: Referer: http://162.14.64.62:7629/
+2022-07-01 13:34:51.012750 [info]: Upgrade-Insecure-Requests: 1
+2022-07-01 13:34:51.012755 [info]: unknow header: Upgrade-Insecure-Requests: 1
+2022-07-01 13:34:51.012760 [info]: X-Forwarded-For: 162.14.64.62, 11.167.1.192
+2022-07-01 13:34:51.012764 [info]: unknow header: X-Forwarded-For: 162.14.64.62, 11.167.1.192
+2022-07-01 13:34:51.012769 [info]: Client-ip: 11.167.1.192
+2022-07-01 13:34:51.012774 [info]: unknow header: Client-ip: 11.167.1.192
+2022-07-01 13:34:51.012779 [info]: Via: http/1.1 traffic_server[288f2c8a-3d2f-44ef-8918-5748b94394c8] (ApacheTrafficServer/9.0.0)
+2022-07-01 13:34:51.012784 [info]: unknow header: Via: http/1.1 traffic_server[288f2c8a-3d2f-44ef-8918-5748b94394c8] (ApacheTrafficServer/9.0.0)
+2022-07-01 13:34:51.012790 [info]: 
+2022-07-01 13:34:51.190577 [info]: request:HTTP/1.1 200 OK
+
+2022-07-01 13:34:51.190604 [info]: request:HTTP/1.1 200 OK
+Content-Length:268
+
+2022-07-01 13:34:51.190611 [info]: request:HTTP/1.1 200 OK
+Content-Length:268
+Connection:close
+
+2022-07-01 13:34:51.190616 [info]: request:HTTP/1.1 200 OK
+Content-Length:268
+Connection:close
+
+
+2022-07-01 13:34:51.190683 [info]: close fd 11
+2022-07-01 17:29:11.247825 [info]: deal with the client(202.98.105.220)
+2022-07-01 17:29:11.247870 [info]: adjust timer once
+2022-07-01 17:29:11.247887 [info]: GET / HTTP/1.1
+2022-07-01 17:29:11.247905 [info]: Host: 162.14.64.62:7629
+2022-07-01 17:29:11.247911 [info]: Connection: keep-alive
+2022-07-01 17:29:11.247917 [info]: Upgrade-Insecure-Requests: 1
+2022-07-01 17:29:11.247923 [info]: unknow header: Upgrade-Insecure-Requests: 1
+2022-07-01 17:29:11.247928 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+2022-07-01 17:29:11.247935 [info]: unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+2022-07-01 17:29:11.247942 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-07-01 17:29:11.247947 [info]: unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-07-01 17:29:11.247953 [info]: Accept-Encoding: gzip, deflate
+2022-07-01 17:29:11.247958 [info]: unknow header: Accept-Encoding: gzip, deflate
+2022-07-01 17:29:11.247964 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-07-01 17:29:11.247969 [info]: unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-07-01 17:29:11.247975 [info]: 
+2022-07-01 17:29:11.247994 [info]: request:HTTP/1.1 200 OK
+
+2022-07-01 17:29:11.248000 [info]: request:HTTP/1.1 200 OK
+Content-Length:973
+
+2022-07-01 17:29:11.248006 [info]: request:HTTP/1.1 200 OK
+Content-Length:973
+Connection:keep-alive
+
+2022-07-01 17:29:11.248011 [info]: request:HTTP/1.1 200 OK
+Content-Length:973
+Connection:keep-alive
+
+
+2022-07-01 17:29:11.248061 [info]: send data to the client(202.98.105.220)
+2022-07-01 17:29:11.248073 [info]: adjust timer once
+2022-07-01 17:29:11.355635 [info]: deal with the client(202.98.105.220)
+2022-07-01 17:29:11.355674 [info]: adjust timer once
+2022-07-01 17:29:11.355701 [info]: GET /css/base.css HTTP/1.1
+2022-07-01 17:29:11.355715 [info]: Host: 162.14.64.62:7629
+2022-07-01 17:29:11.355721 [info]: Connection: keep-alive
+2022-07-01 17:29:11.355727 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+2022-07-01 17:29:11.355734 [info]: unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+2022-07-01 17:29:11.355748 [info]: Accept: text/css,*/*;q=0.1
+2022-07-01 17:29:11.355754 [info]: unknow header: Accept: text/css,*/*;q=0.1
+2022-07-01 17:29:11.355759 [info]: Referer: http://162.14.64.62:7629/
+2022-07-01 17:29:11.355764 [info]: unknow header: Referer: http://162.14.64.62:7629/
+2022-07-01 17:29:11.355769 [info]: Accept-Encoding: gzip, deflate
+2022-07-01 17:29:11.355774 [info]: unknow header: Accept-Encoding: gzip, deflate
+2022-07-01 17:29:11.355779 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-07-01 17:29:11.355784 [info]: unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-07-01 17:29:11.355789 [info]: 
+2022-07-01 17:29:11.355960 [info]: deal with the client(202.98.105.220)
+2022-07-01 17:29:11.355978 [info]: adjust timer once
+2022-07-01 17:29:11.355990 [info]: GET /css/index.css HTTP/1.1
+2022-07-01 17:29:11.356002 [info]: Host: 162.14.64.62:7629
+2022-07-01 17:29:11.356007 [info]: Connection: keep-alive
+2022-07-01 17:29:11.356013 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+2022-07-01 17:29:11.356018 [info]: unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+2022-07-01 17:29:11.356024 [info]: Accept: text/css,*/*;q=0.1
+2022-07-01 17:29:11.356029 [info]: unknow header: Accept: text/css,*/*;q=0.1
+2022-07-01 17:29:11.356034 [info]: Referer: http://162.14.64.62:7629/
+2022-07-01 17:29:11.356039 [info]: unknow header: Referer: http://162.14.64.62:7629/
+2022-07-01 17:29:11.356044 [info]: Accept-Encoding: gzip, deflate
+2022-07-01 17:29:11.356049 [info]: unknow header: Accept-Encoding: gzip, deflate
+2022-07-01 17:29:11.356054 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-07-01 17:29:11.356059 [info]: unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-07-01 17:29:11.356064 [info]: 
+2022-07-01 17:29:11.357051 [info]: request:HTTP/1.1 200 OK
+
+2022-07-01 17:29:11.357057 [info]: request:HTTP/1.1 200 OK
+
+2022-07-01 17:29:11.357078 [info]: request:HTTP/1.1 200 OK
+Content-Length:309
+
+2022-07-01 17:29:11.357088 [info]: request:HTTP/1.1 200 OK
+Content-Length:309
+Connection:keep-alive
+
+2022-07-01 17:29:11.357066 [info]: request:HTTP/1.1 200 OK
+Content-Length:130
+
+2022-07-01 17:29:11.357098 [info]: request:HTTP/1.1 200 OK
+Content-Length:309
+Connection:keep-alive
+
+
+2022-07-01 17:29:11.357114 [info]: request:HTTP/1.1 200 OK
+Content-Length:130
+Connection:keep-alive
+
+2022-07-01 17:29:11.357134 [info]: request:HTTP/1.1 200 OK
+Content-Length:130
+Connection:keep-alive
+
+
+2022-07-01 17:29:11.357607 [info]: send data to the client(202.98.105.220)
+2022-07-01 17:29:11.357618 [info]: adjust timer once
+2022-07-01 17:29:11.358495 [info]: send data to the client(202.98.105.220)
+2022-07-01 17:29:11.358508 [info]: adjust timer once
+2022-07-01 17:29:11.643980 [info]: deal with the client(202.98.105.220)
+2022-07-01 17:29:11.644019 [info]: adjust timer once
+2022-07-01 17:29:11.644030 [info]: GET /favicon.ico HTTP/1.1
+2022-07-01 17:29:11.644046 [info]: Host: 162.14.64.62:7629
+2022-07-01 17:29:11.644052 [info]: Connection: keep-alive
+2022-07-01 17:29:11.644058 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+2022-07-01 17:29:11.644064 [info]: unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+2022-07-01 17:29:11.644070 [info]: Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-07-01 17:29:11.644076 [info]: unknow header: Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-07-01 17:29:11.644081 [info]: Referer: http://162.14.64.62:7629/
+2022-07-01 17:29:11.644086 [info]: unknow header: Referer: http://162.14.64.62:7629/
+2022-07-01 17:29:11.644098 [info]: Accept-Encoding: gzip, deflate
+2022-07-01 17:29:11.644104 [info]: unknow header: Accept-Encoding: gzip, deflate
+2022-07-01 17:29:11.644109 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-07-01 17:29:11.644114 [info]: unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-07-01 17:29:11.644119 [info]: 
+2022-07-01 17:29:11.644148 [info]: request:HTTP/1.1 200 OK
+
+2022-07-01 17:29:11.644154 [info]: request:HTTP/1.1 200 OK
+Content-Length:15406
+
+2022-07-01 17:29:11.644159 [info]: request:HTTP/1.1 200 OK
+Content-Length:15406
+Connection:keep-alive
+
+2022-07-01 17:29:11.644164 [info]: request:HTTP/1.1 200 OK
+Content-Length:15406
+Connection:keep-alive
+
+
+2022-07-01 17:29:11.645290 [info]: send data to the client(202.98.105.220)
+2022-07-01 17:29:11.645305 [info]: adjust timer once
+2022-07-01 19:58:25.637038 [info]: deal with the client(89.248.163.205)
+2022-07-01 19:58:25.637082 [info]: adjust timer once
+2022-07-01 19:58:26.636998 [info]: close fd 11
